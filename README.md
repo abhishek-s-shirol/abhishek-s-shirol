@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Abhishek 👋</h1>
 
-<!--
-**abhishek-s-shirol/abhishek-s-shirol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>SSE at Infosys | Data Analyst with expertise in SQL, Python, Power BI, and ML </b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a data analyst and engineer with a solid background in SQL, Python, Power BI, and data pipelines. I specialize in transforming raw data into meaningful insights through visualization and predictive modeling. My work bridges business needs and technical execution, helping stakeholders make informed decisions.
+
+I'm currently seeking new opportunities in Data Analytics or Data Science roles where I can apply my analytical mindset, problem-solving skills, and technical expertise to real-world challenges.
+
+---
+
+## 🧠 Skills & Tools
+
+**Languages & Libraries:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square)
+
+**BI & ETL Tools:**  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache%20NiFi-003A70?style=flat-square&logo=apache)
+![Altova MapForce](https://img.shields.io/badge/Altova-MapForce-blue?style=flat-square)
+
+**ML & Analytics:**  
+Logistic Regression • Decision Trees • Random Forest • Bagging & Boosting • Feature Engineering • Hypothesis Testing • Statistical Analysis • Data Cleaning • Data Transformation • EDA
+
+---
+
+## 📈 Featured Projects
+
+
+👉 _You can checkout my projects in the [Repositories](https://github.com/abhishek-s-shirol?tab=repositories) section._
+
+---
+
+## 📜 Certifications
+
+- 🏅 Google Advanced Data Analytics Certificate – Coursera
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out if you'd like to collaborate, chat, or have questions!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shivanand-shirol)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhishek.shirol@gmail.com)
+
+---
+
+_Thanks for visiting my GitHub profile!_
