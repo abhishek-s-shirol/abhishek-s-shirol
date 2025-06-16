@@ -37,6 +37,12 @@ Logistic Regression • Decision Trees • Random Forest • Bagging & Boosting 
 
 ## 📈 Featured Projects
 
+🔷 [AdventureWorks Sales Dashboard (Power BI)](https://github.com/abhishek-s-shirol/AdventureWorks-Dashboard)  
+Interactive Power BI dashboard to analyze global sales, profit trends, return rates, and high-value customers across geographies and categories.
+
+🔷 [HR Attrition Analysis & Prediction (ML)](https://github.com/abhishek-s-shirol/HR_Analytics_Capstone)  
+Built classification models to predict employee churn and uncover key factors driving attrition using Logistic Regression, Decision Trees, and EDA.
+
 
 👉 _You can checkout my projects in the [Repositories](https://github.com/abhishek-s-shirol?tab=repositories) section._
 
